@@ -1,1 +1,10 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/AleoTV/LobbyCommand
+build-by-default: true
+branches:
+- master
+AleoTV
+projects: 
+LobbyCommand
+path: LobbyCommand/
+...
 
